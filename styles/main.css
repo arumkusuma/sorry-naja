@@ -262,10 +262,6 @@ body {
   .six .hat {
     left: 32%;
   }
-  .idea-6 span{
-  font-size: 3rem;
-  color: #00E4ff
-}
 }
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
@@ -293,7 +289,7 @@ body {
   }
 
   .idea-6 span {
-    font-size: 10rem;
+    font-size: 5rem;
   }
 
   .six .hat {
