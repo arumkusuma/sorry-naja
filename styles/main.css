@@ -288,7 +288,7 @@ body {
   }
 
   .idea-6 span {
-    top: 5vh !important;
+    top: -20000px;
     font-size: 5rem;
   }
 
