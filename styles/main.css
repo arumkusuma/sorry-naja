@@ -219,7 +219,7 @@ body {
 }
 
 .wish-hbd {
-  font-size: 3em;
+  font-size: 3rem;
   margin: 0;
   text-transform: uppercase;
   color: #00E4ff;
@@ -280,7 +280,6 @@ body {
   }
 
   .text-box .fake-btn {
-    bottom: -38px;
     right: 5px;
   }
 
@@ -289,7 +288,7 @@ body {
   }
 
   .idea-6 span {
-    padding-top: 6rem;
+    top: -5rem;
     font-size: 5rem;
   }
 
